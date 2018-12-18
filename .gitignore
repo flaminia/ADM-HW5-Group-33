@@ -6,3 +6,4 @@ data/wiki-topcats-categories.txt.gz
 data/wiki-topcats-page-names.txt.gz
 data/wiki-topcats-reduced.txt
 data/data_link.pkl
+data/distances.txt
